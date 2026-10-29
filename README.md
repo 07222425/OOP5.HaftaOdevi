@@ -1,1 +1,2 @@
-# OOP5.HaftaOdevi
+# OOP 5.Hafta Ödevi
+Bu depo, Java'da nesne yönelimli programlama prensiplerini uygulamalı olarak öğrenmek amacıyla hazırlanmış bir dizi proje içermektedir. Kalıtım, soyut sınıflar, arayüzler ve koleksiyonlar gibi konuları kapsayan on farklı ödev, her biri bağımsız bir proje yapısında oluşturulmuştur. Geometrik şekillerden banka hesap sistemlerine, matris işlemlerinden stack implementasyonuna kadar çeşitli senaryolar üzerinden OOP kavramları pratiğe dökülmüştür. Sınıf hiyerarşileri ve ilişkileri, tasarım aşamasında UML diyagramları ile modellenmiştir. Projeler, temiz kod yazımı ve sürdürülebilirlik ilkeleri gözetilerek geliştirilmiştir.
